@@ -3,14 +3,14 @@
 "Language"		"norwegian"
 "Tokens"
 {
-		// replace English with translation language native name and your nickname at the end.
-		"[english]ror_translationCredit"		"English translations by ModdedMarionette."
-		"ror_translationCredit"		"English translations by ModdedMarionette."
-		"[english]ror_translationVersion"		"Translation Version: v1.2"
-		"ror_translationVersion"		"Translation Version: v1.2"
+// replace English with translation language native name and your nickname at the end.
+"[english]ror_translationCredit"		"English translations by ModdedMarionette."
+"ror_translationCredit"		"Norsk oversettelse av AMyriad."
+"[english]ror_translationVersion"		"Translation Version: v1.2"
+"ror_translationVersion"		"Oversetning Versjon: v1.2"
 
-		"[english]rd_challenge_desc_ror"		"A roguelike challenge where you take on a journey to defeat the Boss without restarting while collecting items that you can bring across maps to assist you."
-		"rd_challenge_desc_ror"		"A roguelike challenge where you take on a journey to defeat the Boss without restarting while collecting items that you can bring across maps to assist you."
+"[english]rd_challenge_desc_ror"		"A roguelike challenge where you take on a journey to defeat the Boss without restarting while collecting items that you can bring across maps to assist you."
+"rd_challenge_desc_ror"		"En roguelike utfordring hvor man "
 		"[english]ror_mapOnCooldown"		"This map is currently on cooldown. Please select another map!"
 		"ror_mapOnCooldown"		"This map is currently on cooldown. Please select another map!"
 		"[english]ror_howToInv"		"%s1Type %s2 to inspect the inventory of the marine you are playing as or spectating."
